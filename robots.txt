@@ -1,0 +1,4 @@
+# robots.txt
+User-agent: *
+Allow: /
+Sitemap: https://threetogether.github.io/thethirdcurrent/sitemap.xml
