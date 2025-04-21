@@ -4,6 +4,8 @@
 التيار الثالث ليس مجرّد موقف بينيّ أو حل وسط، بل رؤية مختلفة تعيد التفكير في العلاقة بين المواطن والدولة، بين الحرية والنظام، وبين العدالة والهوية. إنه مشروع يتجاوز الثنائية السائدة، ويقترح تركيبًا فكريًا جديدًا يجمع بين الانضباط والكرامة، وبين القوة والرحمة، وبين السيادة والانفتاح.  
 في هذا المقال، سنغوص في عمق هذا التيار—ما الذي يميّزه؟ كيف يتقاطع مع التيارات الأخرى؟ ولماذا نعتقد أنه يمثل أملًا عقلانيًا في زمن الفوضى والتطرف؟
 
+لقراءة **البيان التأسيسي الكامل للتيار الثالث**، اضغط هنا: [اقرأ البيان التأسيسي](statement.md)
+
 ## المبادئ المحورية للتيار الثالث: إعادة تركيب المفاهيم السياسية  
 *(ملاحظة: الروابط أدناه سيتم تفعيلها لاحقًا عند إنشاء الصفحات التفصيلية لكل مبدأ)*
 
@@ -25,7 +27,7 @@
 ### 6. علمانية رشيدة تحترم الدين ولا تخضع له  
 يرى التيار أن الدين قيمة روحية واجتماعية مهمة، لكنه يرفض تحويله إلى أداة حكم أو وسيلة تقسيم. الدولة محايدة دينيًا، لكنها ليست معادية للدين. تمنع التسلّط باسم المقدس، وتكفل حرية المعتقد، وتتصدى لأي خطاب طائفي يهدد وحدة المجتمع. [المزيد](#)
 
-في الجزء التالي من هذا المقال، سنقارن مبادئ التيار الثالث بأهم التيارات السياسية العالمية، ونبيّن ما يجمعه بها وما يفرّقه عنها، في محاولة لتحديد موقعه بدقة ضمن الخريطة الفكرية والسياسية المعاصرة.
+في الجزء التالي من هذا المقال، سنقارن مبادئ التيار الثالث بأهم التيارات السياسية العالمية. [انتقل إلى المقارنات](comparisons.md)
 
 ---
 
@@ -34,6 +36,8 @@
 At a time when political currents clash over grand narratives—between a right that glorifies authority, a left drowning in equality, liberalism that unleashes freedom without restraint, and conservatism that fears change—a new question arises: Is there a rational alternative that neither repeats past mistakes nor submits to blind allegiance?  
 The Third Current is not merely a middle stance or a compromise—it is a different vision that rethinks the relationship between citizen and state, between freedom and order, and between justice and identity. It transcends prevailing binaries and proposes a new intellectual synthesis that combines discipline with dignity, strength with compassion, and sovereignty with openness.  
 In this article, we will delve into the essence of this current—what sets it apart? How does it intersect with other ideologies? And why do we believe it represents a rational hope in an age of chaos and extremism?
+
+To read the **full Founding Statement of the Third Current**, click here: [Read the Founding Statement](statement.md)
 
 ## Core Principles of the Third Current: Reconstructing Political Concepts  
 *(Note: The following links will be activated later upon creation of detailed pages for each principle)*
@@ -56,4 +60,4 @@ Identity in the Third Current is not nationalist isolationism, nor globalist dis
 ### 6. Balanced Secularism That Respects Religion without Submitting to It  
 The current sees religion as a valuable spiritual and social force, but rejects its use as a tool for governance or division. The state is religiously neutral, but not anti-religious. It prevents domination in the name of the sacred, guarantees freedom of belief, and counters sectarian rhetoric that threatens national unity. [More](#)
 
-In the next part of this article, we will compare the core principles of the Third Current with major global political ideologies, highlighting both common grounds and key differences, in an effort to precisely position it on the contemporary political and intellectual map.
+In the next part of this article, we will compare the core principles of the Third Current with major global political ideologies. [Go to comparisons](comparisons.md)
